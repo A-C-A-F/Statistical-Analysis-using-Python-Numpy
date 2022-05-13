@@ -1,6 +1,6 @@
 # Statistical-Analysis-using-Python-Numpy
 
-The data set that we're going to work with is a dataset from Kaggle, Student Performance Dataset.
+The data set that we're going to work with is a dataset from Kaggle, __Student Performance Dataset__.
 
 __Data Source:__ *https://www.kaggle.com/datasets/barkhaverma/student-performance-dataset*
 
